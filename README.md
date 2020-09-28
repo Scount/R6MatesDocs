@@ -11,6 +11,9 @@ Features:
 -	Player match history
 -	Compare players in the watchlist or in charts
 -	Share player profiles through a link or social media
+- Region selection (NA, EU, AS)
 
 This app is using the Tabwire API. All rank icons are owned by Tabwire.
 All season icons and operator icons are owned by UbisoftEntertainment.
+
+Contact: Tanon.dev@gmail.com
